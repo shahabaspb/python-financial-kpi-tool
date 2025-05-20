@@ -5,8 +5,8 @@ This project automates the process of calculating monthly financial KPIs such as
 ## 🔧 Tech Stack
 - Python (pandas, openpyxl)
 - Excel (raw data input/output)
-- Power BI (for dashboarding - optional)
-- GitHub Actions (for automation - optional)
+- Power BI (for dashboarding )
+- GitHub Actions (for automation )
 
 ## 📁 Files
 - `src/kpi_report.py` - Python script to clean and calculate KPIs
